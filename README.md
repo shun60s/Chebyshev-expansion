@@ -1,4 +1,4 @@
-# Chebyshev polynomial expansion  
+# Chebyshev polynomials expansion  
 
 A trial numpy chebyshev polynomials expansion to fragment of music signal.  
 
