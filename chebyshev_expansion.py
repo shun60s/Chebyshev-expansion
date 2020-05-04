@@ -1,6 +1,6 @@
 #coding:utf-8
 
-# A trial numpy chebyshev polynomial expansion
+# A trial numpy chebyshev polynomials expansion
 # to the signal after apply impulse response
 
 # Check version
@@ -105,7 +105,7 @@ def load_wav( path0):
 
 if __name__ == '__main__':
     
-    parser = argparse.ArgumentParser(description='trial numpy chebyshev polynomial expansion')
+    parser = argparse.ArgumentParser(description='trial numpy chebyshev polynomials expansion')
     parser.add_argument('--wav_file0', '-i', default='wav/short_overlapadd_out.wav', help='input wav file name(16bit) mono')
     parser.add_argument('--wav_file1', '-o', default='wav/short-output-TwoTube-rtwdf_part1.wav', help='output wav file name(16bit) mono')
     args = parser.parse_args()
