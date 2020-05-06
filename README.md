@@ -7,7 +7,7 @@ And, a trial ARMA Spectral density power estimation.
 
 - ola_convolve.py overlap-add convolve with impulse response waveform   
 - chebyshev_expansion.py a trial numpy chebyshev polynomials expansion to the signal after apply impulse response  
-- ARMA_Spectral_density.py a trial ARMA Spectral density power estimation. comarison with other ways.  
+- ARMA_Spectral_density.py a trial ARMA Spectral density power estimation. comparison with other ways.  
 
 
 
