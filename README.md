@@ -1,7 +1,7 @@
 # Chebyshev polynomials expansion  
 
 A trial numpy chebyshev polynomials expansion to fragment of music signal.  
-And, a trial ARMA Spectral density power estimation.  
+A trial ARMA Spectral density power estimation.  
 
 ## contents 
 
