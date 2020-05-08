@@ -2,7 +2,9 @@
 
 A trial numpy chebyshev polynomials expansion to fragment of music signal.  
 A trial ARMA Spectral density power estimation.  
-
+  
+[github repository](https://github.com/shun60s/Chebyshev-expansion/)  
+  
 ## contents 
 
 - ola_convolve.py overlap-add convolve with impulse response waveform   
